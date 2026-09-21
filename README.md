@@ -1,2 +1,2 @@
-# BPOpti Teck website
+# BPOpti Tech website
 Main website
