@@ -57,7 +57,7 @@ export function GetNavBarInnerHTML(lang) {
             <li><a href="/${lang}/pricing.html" class="nav-link ${window.location.pathname.includes('/pricing.html') ? 'active' : ''}">${navBarLbls.pricing}</a></li>
             <li><a href="/${lang}/about.html" class="nav-link ${window.location.pathname.includes('/about.html') ? 'active' : ''}">${navBarLbls.about}</a></li>
             <li><a href="/${lang}/contact.html" class="nav-link ${window.location.pathname.includes('/contact.html') ? 'active' : ''}">${navBarLbls.contact}</a></li>
-            <li><a href="https://docs.BPOpti Tech.ca">Documentation</a></li>
+            <li><a href="https://docs.bpoptitech.ca">Documentation</a></li>
         </ul>
 
         <div class="nav-actions">
